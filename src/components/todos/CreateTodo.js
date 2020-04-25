@@ -5,7 +5,7 @@ class CreateTodo extends Component {
     super();
     this.state = {
       text: '',
-    }
+    };
   }
 
   render() {
